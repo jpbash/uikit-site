@@ -20,9 +20,9 @@ Add one of the following classes to the container to apply a different max-width
 
 | Class                  | Description                                                                                                    |
 |:-----------------------|:---------------------------------------------------------------------------------------------------------------|
-| `.uk-container-xsmall` | Add this class for a xsmall container.                                                                         |
-| `.uk-container-small`  | Add this class for a small container.                                                                          |
-| `.uk-container-large`  | Add this class for a large container.                                                                          |
+| `.uk-container-xsmall` | Add this class for a xsmall container. (750px)                                                                |
+| `.uk-container-small`  | Add this class for a small container. (900px)                                                                  |
+| `.uk-container-large`  | Add this class for a large container. (1600px)                                                                |
 | `.uk-container-expand` | Add this class, if you do not want to limit the container width but still want the dynamic horizontal padding. |
 
 ```html
